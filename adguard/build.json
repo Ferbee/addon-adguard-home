@@ -1,10 +1,10 @@
 {
   "build_from": {
-    "aarch64": "hassioaddons/base-aarch64:8.0.6",
-    "amd64": "hassioaddons/base-amd64:8.0.6",
-    "armhf": "hassioaddons/base-armhf:8.0.6",
-    "armv7": "hassioaddons/base-armv7:8.0.6",
-    "i386": "hassioaddons/base-i386:8.0.6"
+    "aarch64": "Ferbee/base-aarch64:8.0.6",
+    "amd64": "Ferbee/base-amd64:8.0.6",
+    "armhf": "Ferbee/base-armhf:8.0.6",
+    "armv7": "Ferbee/base-armv7:8.0.6",
+    "i386": "Ferbee/base-i386:8.0.6"
   },
   "args": {}
 }
